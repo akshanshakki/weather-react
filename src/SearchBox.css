@@ -1,0 +1,25 @@
+.SearchBox{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.InfoBox{
+    text-align: center;
+}
+.cardContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.weather{
+    text-align: center;
+}
+
+.error{
+    color: red;
+}
+
+.icon{
+    text-align: center;
+}
